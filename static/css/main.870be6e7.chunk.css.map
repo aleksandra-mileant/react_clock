@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAmB,CACnB,WAAY,CACb,WAGC,gBAAiB,CAEjB,kBACE,iBAAkB","file":"main.870be6e7.chunk.css","sourcesContent":[".App {\n  margin: 100px 100px;\n  width: 500px;\n}\n\n.btn-group {\n  padding-top: 20px;\n\n  &-hidden {\n    padding-left: 50px;\n  }\n}\n"]}
